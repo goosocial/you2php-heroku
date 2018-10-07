@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyDnkfgnt9Ts7BssvtpPDEMEwToAc6rN-C0');//这里改成您的api key
+define('APIKEY', 'AIzaSyDnkfgnt9Ts7BssvtpPDEMEwToAc6rN-909');//这里改成您的api key
 define('GJ_CODE', 'KR');//国家代码
 define('SITE_NAME', 'goosocial');//网站名字
 define('TITLENAME', 'goosocial');//网站名字
