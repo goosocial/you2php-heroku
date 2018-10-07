@@ -1,8 +1,13 @@
 {
   "require": {
     "php": "7.1.22",
-    "ext-gd": "*",
+    "ext-bcmath": "*",
+    "ext-ftp": "*",	   
+    "ext-gd": "*",   
+    "ext-gmp": "*",	   	   	   	   	   	   	   	     
+    "ext-gettext": "*",
     "ext-mbstring": "*",
+    "ext-mcrypt": "*",
     "ext-sqlite3": "*",
     "ext-imagick": "*"
   }
